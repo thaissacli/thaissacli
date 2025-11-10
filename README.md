@@ -16,7 +16,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=ADS+%40+UNDB;Criptografia+Qu%C3%A2ntica;Apps+Seguros+%F0%9F%94%92;SBF+%E2%9A%9B%EF%B8%8F&center=true&vCenter=true&pause=900&width=420)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaissacli&layout=compact&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaissacli&show_icons=true&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thaissacli&theme=transparent)
 
